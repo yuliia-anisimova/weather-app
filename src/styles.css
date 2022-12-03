@@ -1,0 +1,79 @@
+body {
+  font-family: "Lato", sans-serif;
+  font-family: "Montserrat", sans-serif;
+}
+
+.sub-container {
+  border: 1px solid #a8a8a8;
+  border-radius: 10px;
+  padding: 40px;
+  margin: 20px auto;
+  max-width: 700px;
+  box-shadow: 0 0 10px 1px #a8a8a8;
+}
+
+.weather-search {
+  margin-bottom: 20px;
+}
+
+.main-heading {
+  font-size: 25px;
+  font-weight: 400;
+  line-height: 26px;
+  margin-bottom: 10px;
+}
+
+.main-temperature {
+  font-size: 65px;
+  font-weight: 400;
+  line-height: 1px;
+}
+
+.main-icon {
+  height: 65px;
+  width: 65px;
+  margin-right: 10px;
+  position: relative;
+  top: -10px;
+}
+
+.degrees {
+  position: relative;
+  top: -35px;
+}
+
+.temperature {
+  text-decoration: none;
+}
+
+.float-left {
+  display: inline;
+}
+
+.weather-list {
+  margin: 0 0 10px;
+  padding: 0;
+}
+
+.list-item {
+  font-size: 16px;
+  font-weight: 400;
+  color: #a8a8a8;
+  line-height: 1px;
+  list-style: none;
+  height: 19px;
+}
+
+.card {
+  margin: 0 auto;
+  display: block;
+  text-align: center;
+}
+
+.card:hover {
+  box-shadow: 0 0 10px 1px #91b2f7;
+}
+
+.card-title {
+  font-size: 14px;
+}
