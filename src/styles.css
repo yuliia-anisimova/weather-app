@@ -77,3 +77,8 @@ body {
 .card-title {
   font-size: 14px;
 }
+
+.github-link {
+  text-align: center;
+  font-size: 15px;
+}
